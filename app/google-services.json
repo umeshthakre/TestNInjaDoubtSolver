@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595167977468",
+    "firebase_url": "https://demotestninja.firebaseio.com",
+    "project_id": "demotestninja",
+    "storage_bucket": "demotestninja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595167977468:android:46a8d06ba7972d5b039c79",
+        "android_client_info": {
+          "package_name": "com.example.testninjademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595167977468-7gbmvceh0qi25mcn7pvv85hahukbpu5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfKUiT49VBFLfrZrR1TQqejgb1dezBzIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595167977468-7gbmvceh0qi25mcn7pvv85hahukbpu5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

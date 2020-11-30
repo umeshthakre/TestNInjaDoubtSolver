@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Ninja Demo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string-array name="subjects">
+        <item name = "none">None</item>
+        <item name = "maths">Maths</item>
+        <item name = "science">Science</item>
+        <item name = "english">Maths</item>
+        <item name = "Space">Space</item>
+    </string-array>
+</resources>
